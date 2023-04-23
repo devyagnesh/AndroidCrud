@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">crud3</string>
+    <string name="str_add_task">Add Task</string>
+    <string name="hint_taskname">Task name</string>
+    <string name="hint_taskdetails">Task details</string>
+    <string name="str_save">Save</string>
+    <string name="str_delete">Delete</string>
+    <string name="task_name">Name : Upload task</string>
+    <string name="task_details">Details : Here we have details task</string>
+    <string name="str_edit">Edit</string>
+</resources>
